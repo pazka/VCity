@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": ["es6","dom","DOM.Iterable"],
+        "module": "es6",
+        "removeComments": true,
+        "sourceMap": true,
+        "strict": true,
+        "target": "es6",
+        "noImplicitAny": true
+    }
+}
