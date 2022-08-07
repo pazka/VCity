@@ -4,6 +4,8 @@ I wanted to push my coding limits, by creating a complex system that could hold 
 
 It would also create a soothing virtual city to watch grow without doing anything, kind of an idle game.
 
+The bonus is that it's also practice for buiding up a full js compilation chain with gulp
+
 # Roadmap
 Current : v1 
 
